@@ -1,0 +1,4 @@
+#This is the list of numbers to match
+8 4 1 11 0 12 -6 18
+#This is the target value
+12
